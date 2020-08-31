@@ -44,7 +44,7 @@ Below I have selected a few projects in particular to highlight.
     </div>
     <div class="caption">
       <a href="{{site.url}}/projects/run_analyzer"><h3>Run Analyzer</h3></a>
-      <p>A website integrated with Strava that allows users to import all of their running data for a detailed analysis of of their running performance.</p>
+      <p>A website integrated with Strava that allows users to import all of their running data for a detailed analysis of their running performance.</p>
     </div>
   </div>
 </div>
