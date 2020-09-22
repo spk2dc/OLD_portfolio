@@ -6,7 +6,7 @@ link_git: https://github.com/spk2dc/RunAnalyzer#run-analyzer-read-me
 ---
 
 <p class="lead">
-A website integrated with Strava that allows users to import all of their running data for a detailed analysis of of their running performance.
+A website integrated with Strava that allows users to import all of their running data for a detailed analysis of their running performance.
 </p>
 
 #### Technologies

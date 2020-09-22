@@ -61,7 +61,7 @@ Created an online version of the popular classic boardgame Battleship where a us
       </div>
       <div class="caption">
         <h3>Home Page</h3>
-        <p>Default home page after loggin in where user can start a new game</p>
+        <p>Default home page after login where user can start a new game</p>
       </div>
     </div>
   </div>
